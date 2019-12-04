@@ -1,0 +1,44 @@
+{
+  "name": "vue-teachable-machine",
+  "version": "0.0.1",
+  "description": "A set of Vue components for use with Google's Teashable Machine",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockReece/vue-teachable-machine.git"
+  },
+  "keywords": [
+    "Vue",
+    "Google",
+    "Teachable",
+    "Machine"
+  ],
+  "author": "Brock Reece (brockreece@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockReece/vue-teachable-machine/issues"
+  },
+  "homepage": "https://github.com/BrockReece/vue-teachable-machine#readme"
+}
